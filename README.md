@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, my name is Luciana Pereira 👋 :woman_technologist:	
+
+I am from São Paulo capital (Brazil), currently I am a student of Analysis and System Development, I work as a web development and I work with Compiladoras de Cafeina and AfroHackers in helping to teach programming and cybersecurity to cis and trans women and the needy community.
 
 <!--
 **Lu-Pereira/Lu-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
