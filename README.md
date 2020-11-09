@@ -1,6 +1,6 @@
-### Hello, my name is Luciana Pereira 👋 :woman_technologist:	
+### Olá, meu nome é Luciana Pereira 👋 :woman_technologist:	
 
-I am from São Paulo capital (Brazil), currently I am a student of Analysis and System Development, I work as a web development and I work with Compiladoras de Cafeina and AfroHackers in helping to teach programming and cybersecurity to cis and trans women and the needy community.
+Sou de São Paulo, capital (Brasil), atualmente sou estudante de Análise e Desenvolvimento de Sistemas, participo de algumas comunidadese como a Compiladoras de Cafeina e AfroHackers ajudando a ensinar programação e cibersegurança para mulheres cis e trans.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu-pereira/)](https://www.linkedin.com/in/lu-pereira/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/luciana.pereira.35762241/)](https://www.facebook.com/luciana.pereira.35762241/)
@@ -9,6 +9,6 @@ I am from São Paulo capital (Brazil), currently I am a student of Analysis and 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luci.lv14@gmail.com/)](mailto:luci.lv14@gmail.com/)
 
 
--Thanks for visiting.
+-Obrigado pela visita.
 
--Enjoy it!! :raising_hand_woman:	
+-Aproveite!! :raising_hand_woman:	
