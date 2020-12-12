@@ -17,6 +17,6 @@ Sou de São Paulo, capital (Brasil), atualmente sou estudante de Análise e Dese
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dev.lupereira/)](https://www.instagram.com/dev.lupereira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luci.lv14@gmail.com/)](mailto:luci.lv14@gmail.com/)
 
--Obrigado pela visita.
+-Obrigado pela visita!
 
 -Aproveite!! :raising_hand_woman:	
