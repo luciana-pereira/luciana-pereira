@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luciana Pereira 👋 :woman_technologist:	
 
-Sou de São Paulo, capital (Brasil), atualmente sou estudante de Análise e Desenvolvimento de Sistemas, participo de algumas comunidadese como a Compiladoras de Cafeina e AfroHackers ajudando a ensinar programação e cibersegurança para mulheres cis e trans.
+Sou de São Paulo, capital (Brasil), atualmente sou estudante de Análise e Desenvolvimento de Sistemas, participo do Bootcamp da Laboratoriade e de algumas comunidadese como a Compiladoras de Cafeina e AfroHackers ajudando a ensinar programação e cibersegurança para mulheres cis e trans.
 
 <center>
 <table>
@@ -10,6 +10,7 @@ Sou de São Paulo, capital (Brasil), atualmente sou estudante de Análise e Dese
   </tr>  
 </table>
 </center>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lu-pereira/)](https://www.linkedin.com/in/lu-pereira/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/luciana.pereira.35762241/)](https://www.facebook.com/luciana.pereira.35762241/)
