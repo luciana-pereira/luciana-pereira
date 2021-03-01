@@ -5,14 +5,14 @@ Sou de São Paulo capital (Brasil), atualmente sou estudante de Análise e Desen
 <center>
 <table>
   <tr>
-      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=Lu-Pereira&show_icons=true&theme=dracula></td>
-      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Pereira&show_icons=true&theme=dracula&layout=compact></td>
+      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&show_icons=true&theme=dracula></td>
+      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=dracula&layout=compact></td>
   </tr>  
 </table>
 </center>
 
 
- <a href="https://www.linkedin.com/in/lu-pereira" target="_blank">
+ <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
   </a>
  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
