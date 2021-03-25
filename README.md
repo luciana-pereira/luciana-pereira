@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luciana Pereira 👋 :woman_technologist:	
 
-Sou de São Paulo capital (Brasil), atualmente aluna do Bootcamp da Laboratoria de Front-End, e estudante de Engenhariapela UNIVESP, já atuei em algumas comunidades como a Compiladoras de Cafeina auxiliando monitoras e dando suporte no ensino programação para mulheres cis e trans.
+Sou de São Paulo capital (Brasil), atualmente aluna do Bootcamp da Laboratoria de Front-End e estudante de Engenhariapela UNIVESP, já atuei em algumas comunidades como a Compiladoras de Cafeina auxiliando monitoras e dando suporte no ensino programação para mulheres cis e trans.
 
 <center>
 <table>
