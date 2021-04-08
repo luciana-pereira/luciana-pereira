@@ -1,6 +1,10 @@
 ### Olá, meu nome é Luciana Pereira 👋 :woman_technologist:	
 
-Sou de São Paulo capital (Brasil), atualmente aluna do Bootcamp da Laboratoria de Front-End e estudante de Engenharia pela UNIVESP, já atuei em algumas comunidades como a Compiladoras de Cafeina auxiliando monitoras e dando suporte no ensino programação para mulheres cis e trans.
+**Sobre mim:**
+- 🌎 Sou de São Paulo capital (Brasil).
+- 🎓 Atualmente estou me formando em Engenharia pela Univesp.
+- 👩🏾‍💻 Participo do Bootcamp da Laboratoria de Front-End 5º Geração.
+- 💁🏾❤️💻 Já atuei em algumas comunidades como a Compiladoras de Cafeina auxiliando monitoras e dando suporte no ensino programação para mulheres cis e trans.
 
 <center>
 <table>
@@ -11,23 +15,15 @@ Sou de São Paulo capital (Brasil), atualmente aluna do Bootcamp da Laboratoria 
 </table>
 </center>
 
-
- <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
+   <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
   </a>
  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" height="35" width="35" />
   </a>
    <a href="https://www.instagram.com/dev.lupereira" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" height="35" width="35" />
   </a>
    <a href="https://twitter.com/LuPereiraDev" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" height="35" width="35" />
   </a>
-
-
-
-
--Obrigado pela visita!
-
--Aproveite!! :raising_hand_woman:	
