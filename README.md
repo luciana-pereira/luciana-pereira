@@ -16,14 +16,14 @@
 </center>
 
    <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
   </a>
  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" height="35" width="35" />
   </a>
    <a href="https://www.instagram.com/dev.lupereira" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" height="35" width="35" />
   </a>
    <a href="https://twitter.com/LuPereiraDev" target="_blank">
-    <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" height="35" width="35" />
+    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" height="35" width="35" />
   </a>
