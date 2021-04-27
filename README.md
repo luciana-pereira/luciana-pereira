@@ -20,19 +20,18 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
 </p>
-</center>
-
-
-
+  <p align="center">
    <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
-    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
+    <img  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" align="center"/>
   </a>
  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
-    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" height="35" width="35" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" align="center"/>
   </a>
    <a href="https://www.instagram.com/dev.lupereira" target="_blank">
-    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" height="35" width="35" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" align="center"/>
   </a>
    <a href="https://twitter.com/LuPereiraDev" target="_blank">
-    <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" height="35" width="35" />
+    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" align="center"/>
   </a>
+  </p>
+</center>
