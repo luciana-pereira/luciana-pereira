@@ -1,4 +1,8 @@
-### Olá, meu nome é Luciana Pereira 👋 :woman_technologist:	
+<h1 align="center">
+  Olá, meu nome é Luciana Pereira
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  👩‍💻
+</h1>
 
 **Sobre mim:**
 - 🌎 Sou de São Paulo capital (Brasil).
@@ -9,11 +13,19 @@
 <center>
 <table>
   <tr>
-      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&show_icons=true&theme=dracula></td>
-      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=dracula&layout=compact></td>
-  </tr>  
+      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&show_icons=true&theme=radical></td>
+      <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact></td>
+  </tr> 
 </table>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
+</p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=luciana-pereira&show_icons=true&theme=dracula" /></a>
+</p>
 </center>
+
+
 
    <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
     <img align="left" height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" height="35" width="35" />
