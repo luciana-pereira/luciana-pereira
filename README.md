@@ -8,7 +8,7 @@
 - 🌎 Sou de São Paulo capital (Brasil).
 - 🎓 Atualmente estou me formando em Engenharia pela Univesp.
 - 👩🏾‍💻 Participei do Bootcamp da Laboratoria de Front-End 5º Geração.
-- 💁🏾❤️💻 Já atuei em algumas comunidades como a Compiladoras de Cafeina auxiliando monitoras e dando suporte no ensino programação para mulheres cis e trans.
+- 👩🏾‍💻❤️💻 Já atuei em algumas comunidades e programas, auxiliando monitoras e dando suporte no ensino programação para mulheres cis, trans, crianças e adolescentes.
 
 <center>
 <table>
