@@ -20,9 +20,6 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
 </p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=luciana-pereira&show_icons=true&theme=dracula" /></a>
-</p>
 </center>
 
 
