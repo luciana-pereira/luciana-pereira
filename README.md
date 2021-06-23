@@ -17,6 +17,27 @@
       <td><img align="center" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact></td>
   </tr> 
 </table>
+ 
+  
+ <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="sass" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphQL" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="30" width="30">
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
+</p> 
+  
+  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
 </p>
