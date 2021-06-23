@@ -18,7 +18,7 @@
   </tr> 
 </table>
  
-  
+ <p align="center">Ferramentas que utilizo:</p>
  <p align="center">
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30" width="30">
 
