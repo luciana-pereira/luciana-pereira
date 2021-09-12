@@ -10,12 +10,14 @@
 - 👩🏾‍💻 Participei do Bootcamp da Laboratoria de Front-End 5º Geração.
 - 👩🏾‍💻❤️💻 Já atuei em algumas comunidades e programas, auxiliando monitoras e dando suporte no ensino programação para mulheres cis, trans, crianças e adolescentes.
 
-  <div><br>
+<center>
+  <p align="center"><br>
     <a href="https://github.com/luciana-pereira">
       <img height="180em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&show_icons=true&theme=radical>
       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact>
     </a>
-  </div>
+  </p>
+</center>
 
 <p align="center"><br>
   <img align="center" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
