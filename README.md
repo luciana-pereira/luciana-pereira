@@ -23,12 +23,13 @@
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="logo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="logo-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="logo-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="logo-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="logo-angular" height="30" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-  <img align="center" alt="logo-graphql" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
   <img align="center" alt="logo-nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="logo-graphql" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img align="center" alt="logo-java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   <img align="center" alt="logo-docker" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
   <img align="center" alt="logo-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 </p>
