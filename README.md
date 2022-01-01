@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Olá, meu nome é Luciana Pereira
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -12,7 +13,7 @@
 <center>
   <p align="center"><br>
     <a href="https://github.com/luciana-pereira">
-      <img height="180em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&show_icons=true&theme=radical>
+      <img height="180em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical>
       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact>
     </a>
   </p>
