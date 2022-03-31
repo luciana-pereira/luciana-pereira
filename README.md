@@ -6,9 +6,9 @@
 
 **Sobre mim:**
 - 🌎 Sou de São Paulo capital (Brasil).
-- 🎓 Atualmente estou me formando em Engenharia pela Univesp.
-- 👩🏾‍💻 Participei do Bootcamp da [Laboratoria](https://selecao.laboratoria.la/) de Front-End 5º Geração.
-- 👩‍🚀 Cadete em formação em Engenharia de Software pela [42SP](https://www.42sp.org.br/)
+- 🎓 Atualmente estou me formando em **Engenharia pela _Univesp_**.
+- 👩🏾‍💻 Participei do Bootcamp da **[Laboratoria](https://selecao.laboratoria.la/) de Front-End 5º Geração**.
+- 👩‍🚀 Cadete em formação em **Engenharia de Software pela _[42SP](https://www.42sp.org.br/)_**
 - 👩🏾‍💻❤️💻 Já atuei em algumas comunidades e programas, auxiliando monitoras e dando suporte no ensino programação para mulheres cis, trans, crianças e adolescentes.
 
 <center>
