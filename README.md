@@ -4,12 +4,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-**Sobre mim:**
+
+
+  **Sobre mim:**
 - 🌎 Sou de São Paulo capital (Brasil).
-- 🎓 Atualmente estou me formando em **Engenharia pela _Univesp_**.
+- 🎓 Atualmente estou me formando em Engenharia pela **[Univesp](https://univesp.br/)**
 - 👩🏾‍💻 Participei do Bootcamp da **[Laboratoria](https://selecao.laboratoria.la/) de Front-End 5º Geração**.
-- 👩🏽‍🚀 Cadete em formação em **Engenharia de Software pela _[42SP](https://www.42sp.org.br/)_**
-- 👩🏾‍💻❤️💻 Já atuei em algumas comunidades e programas, auxiliando monitoras e dando suporte no ensino programação para mulheres cis, trans, crianças e adolescentes.
+- 👩🏽‍🚀 Cadete em formação em **Engenharia de Software pela _[42SP](https://www.42sp.org.br/)_**.<br><br>
 
 <center>
   <p align="center"><br>
@@ -18,7 +19,7 @@
       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact>
     </a>
   </p>
-</center>
+</center><br>
 
 <p align="center"><br>
   <img align="center" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -34,26 +35,27 @@
   <img align="center" alt="logo-java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   <img align="center" alt="logo-docker" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
   <img align="center" alt="logo-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</p>
+</p><br><br>
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
 </p>
 
-![Snake animation](https://github.com/luciana-pereira/luciana-pereira/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img align="center" alt="snacker" src="https://github.com/luciana-pereira/luciana-pereira/blob/output/github-contribution-grid-snake.svg" />
+</p><br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
-    <img  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" align="center"/>
+    <img  height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" align="center"/>
   </a>
   <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" align="center"/>
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" align="center"/>
   </a>
   <a href="https://www.instagram.com/dev.lupereira" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" align="center"/>
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" align="center"/>
   </a>
   <a href="https://twitter.com/LuPereiraDev" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" align="center"/>
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" align="center"/>
   </a>
 </p>
-
