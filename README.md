@@ -12,16 +12,14 @@
 - 👩🏾‍💻 Participei do Bootcamp da **[Laboratoria](https://selecao.laboratoria.la/) de Front-End 5º Geração**.
 - 👩🏽‍🚀 Cadete em formação em **Engenharia de Software pela _[42SP](https://www.42sp.org.br/)_**.<br><br>
 
-<center>
-  <p align="center"><br>
+  <div align="center"><br>
     <a href="https://github.com/luciana-pereira">
       <img height="180em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical>
       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact>
     </a>
-  </p>
-</center><br>
+  </div>
 
-<p align="center"><br>
+<p align="center">
   <img align="center" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="logo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -35,7 +33,7 @@
   <img align="center" alt="logo-java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   <img align="center" alt="logo-docker" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
   <img align="center" alt="logo-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</p><br><br>
+</p>
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
@@ -43,7 +41,7 @@
 
 <p align="center">
   <img align="center" alt="snacker" src="https://github.com/luciana-pereira/luciana-pereira/blob/output/github-contribution-grid-snake.svg" />
-</p><br><br>
+</p><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
