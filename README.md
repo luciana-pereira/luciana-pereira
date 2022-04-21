@@ -11,6 +11,22 @@
 <p align="left">🎓 Atualmente estou me formando em Engenharia pela <a href="https://univesp.br/"><b>Univesp</b></a></p>
 <p align="left">👩🏾‍💻 Participei do Bootcamp da <a href="https://selecao.laboratoria.la/"><b>Laboratoria</b></a> de Front-End 5º Geração.</p>
 <p align="left">👩🏽‍🚀 Cadete em formação em <b>Engenharia de Software</b> pela <a href="https://www.42sp.org.br/"><b>42SP</b></a</p>
+ <br><br>
+ <p align="center">
+  <img align="center" alt="logo-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="logo-CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="logo-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="logo-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" alt="logo-angular" height="40" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+  <img align="center" alt="logo-nodejs" height="40" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+  <img align="center" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="logo-graphql" height="40" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img align="center" alt="logo-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+  <img align="center" alt="logo-docker" height="55" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+  <img align="center" alt="logo-git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+</p><br><br>
 
 <div align="center">
     <a href="https://github.com/luciana-pereira">
@@ -19,23 +35,6 @@
     </a>
 <!--       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact> -->
 </div>
-
-
-<p align="center">
-  <img align="center" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="logo-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="logo-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="logo-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="logo-angular" height="30" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-  <img align="center" alt="logo-nodejs" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="logo-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="logo-graphql" height="30" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
-  <img align="center" alt="logo-java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-  <img align="center" alt="logo-docker" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-  <img align="center" alt="logo-git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-</p>
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
