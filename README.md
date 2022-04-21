@@ -4,7 +4,7 @@
 </div>
 
 <p align="right">
-    <img src="https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" width="450" align="right">
+    <img src="https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" width="300" align="right">
 </p><br><br>
 
 <p margin-left="20" align="left">🌎 Sou de São Paulo capital (Brasil).</p>
