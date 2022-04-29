@@ -31,7 +31,7 @@
 <div align="center">
     <a href="https://github.com/luciana-pereira">
       <img height="215em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&langs_count=10&theme=radical&layout=compact" alt="Luciana Pereira :: Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&count_private=true&include_all_commits=true&langs_count=10&theme=radical&layout=compact" alt="Luciana Pereira :: Top Langs" />
     </a>
 <!--       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact> -->
 </div>
