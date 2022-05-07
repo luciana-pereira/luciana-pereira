@@ -20,8 +20,9 @@
   <img align="center" alt="logo-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="logo-angular" height="40" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
   <img align="center" alt="logo-nodejs" height="40" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-  <img align="center" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="logo-csharp" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" />
+  <img align="center" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="logo-graphql" height="40" width="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
   <img align="center" alt="logo-java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   <img align="center" alt="logo-docker" height="55" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
