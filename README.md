@@ -12,6 +12,11 @@
 <p align="left">👩🏾‍💻 Participei do Bootcamp da <a href="https://selecao.laboratoria.la/"><b>Laboratoria</b></a> de Front-End 5º Geração.</p>
 <p align="left">👩🏽‍🚀 Cadete em formação em <b>Engenharia de Software</b> pela <a href="https://www.42sp.org.br/"><b>42SP</b></a</p>
  <br><br>
+ 
+  <div align="center">
+    <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" />
+</div><br>
+ 
  <p align="center">
   <img align="center" alt="logo-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
