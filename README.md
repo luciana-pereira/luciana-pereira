@@ -1,21 +1,38 @@
 
  <div align="center">
     <img src="https://github.com/luciana-pereira/luciana-pereira/blob/master/github-header-image%20(1).png?raw=true" />
-</div>
+</div><br><br>
 
-<p align="right">
-    <img src="https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" width="300" align="right">
-</p><br><br>
-
-<p margin-left="20" align="left">🌎 Sou de São Paulo capital (Brasil).</p>
-<p align="left">🎓 Atualmente estou me formando em Engenharia pela <a href="https://univesp.br/"><b>Univesp</b></a></p>
-<p align="left">👩🏾‍💻 Participei do Bootcamp da <a href="https://selecao.laboratoria.la/"><b>Laboratoria</b></a> de Front-End 5º Geração.</p>
-<p align="left">👩🏽‍🚀 Cadete em formação em <b>Engenharia de Software</b> pela <a href="https://www.42sp.org.br/"><b>42SP</b></a</p>
- <br><br>
+<!-- LIST-ACTIVITIES:START -->
+- 📚 I am learning **C, C++** and **Java** ☕️  <img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/>
+- 👩🏽‍🚀 Cadet in training in Software Engineering at [42SP](https://www.42sp.org.br)
+- 🎓 I am currently majoring in Engineering at [UNIVESP](https://univesp.br/)
+- 👩🏾‍💻 Participated in [Laboratoria](https://selecao.laboratoria.la) Bootcamp | Front-End 5th Generation.
+- ✈️​🗺️​ I like to travel and play sports ⛹🏽‍♀️​🤾🏽‍♀️​
+- 💬 Ask me about:
+**Java, C, Linux, DevOps, Cloud, Docker, Kubernetes**
+<br><br><br><br>
+ <p align="center">
+  <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" align="center"/>
+ </p>
+ <!--LIST-ACTIVITIES:END -->
  
-  <div align="center">
-    <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" />
-</div><br>
+<h3 align="center"><b> You can connect with me:<b><h3>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
+    <img  height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" align="center"/>
+  </a>
+  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" align="center"/>
+  </a>
+  <a href="https://www.instagram.com/dev.lupereira" target="_blank">
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" align="center"/>
+  </a>
+  <a href="https://twitter.com/LuPereiraDev" target="_blank">
+    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" align="center"/>
+  </a>
+ </p><br><br>
+
  
  <p align="center">
   <img align="center" alt="logo-react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -44,23 +61,4 @@
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
-</p>
-
-<p align="center">
-  <img align="center" alt="snacker" src="https://github.com/luciana-pereira/luciana-pereira/blob/output/github-contribution-grid-snake.svg" />
-</p><br>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucianapereiras" target="_blank">
-    <img  height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lu-pereira" align="center"/>
-  </a>
-  <a href="https://www.facebook.com/luciana.pereira.35762241" target="_blank">
-    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lu-pereira" align="center"/>
-  </a>
-  <a href="https://www.instagram.com/dev.lupereira" target="_blank">
-    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lu-pereira" align="center"/>
-  </a>
-  <a href="https://twitter.com/LuPereiraDev" target="_blank">
-    <img height="40" margin="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lu-pereira" align="center"/>
-  </a>
 </p>
