@@ -10,7 +10,7 @@
 - 👩🏾‍💻 Participated in [Laboratoria](https://selecao.laboratoria.la) Bootcamp | Front-End 5th Generation.
 - ✈️​🗺️​ I like to travel and play sports ⛹🏽‍♀️​🤾🏽‍♀️​
 - 💬 Ask me about:
-**Java, C, Linux, DevOps, Cloud, Docker, Kubernetes**
+**Angular, Reactjs, Java, C, Linux, DevOps, Cloud, Docker, Kubernetes**
 <br><br><br><br>
  <p align="center">
   <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" align="center"/>
