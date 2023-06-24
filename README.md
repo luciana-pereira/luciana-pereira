@@ -61,7 +61,7 @@
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
-</p>
+</p><br>
  
  <p align="center">
   <img align="center" alt="snacker" src="https://github.com/luciana-pereira/luciana-pereira/blob/output/github-contribution-grid-snake.svg" />
