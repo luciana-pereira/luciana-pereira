@@ -2,9 +2,10 @@
  <div align="center">
     <img src="https://github.com/luciana-pereira/luciana-pereira/blob/master/github-header-image%20(1).png?raw=true" />
 </div><br><br> -->
+<!--<img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/> -->
 
 <!-- LIST-ACTIVITIES:START -->
-- 📚 I am learning **C, C++** and **Java** ☕️  <img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/>
+- 📚 I am learning **C, C++** and **Java** ☕️  
 - 👩🏽‍🚀 Cadet in training in Software Engineering at [42SP](https://www.42sp.org.br)
 - 🎓 I am currently majoring in Engineering at [UNIVESP](https://univesp.br/)
 - 👩🏾‍💻 Participated in [Laboratoria](https://selecao.laboratoria.la) Bootcamp | Front-End 5th Generation.
