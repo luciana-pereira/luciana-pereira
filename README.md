@@ -1,7 +1,7 @@
-
+<!-- LIST-ACTIVITIES:START 
  <div align="center">
     <img src="https://github.com/luciana-pereira/luciana-pereira/blob/master/github-header-image%20(1).png?raw=true" />
-</div><br><br>
+</div><br><br> -->
 
 <!-- LIST-ACTIVITIES:START -->
 - 📚 I am learning **C, C++** and **Java** ☕️  <img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/>
