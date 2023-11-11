@@ -2,6 +2,7 @@
  <div align="center">
     <img src="https://github.com/luciana-pereira/luciana-pereira/blob/master/github-header-image%20(5).png?raw=true" />
 </div><br><br>
+
 <!--<img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/> -->
 
 <!-- LIST-ACTIVITIES:START -->
@@ -35,12 +36,13 @@
      <img  alt="logo-git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
    </div>
 </div>
-</br>
+</
+br>
 </br>
  <!--LIST-ACTIVITIES:END -->
 
  <p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" align="center"/>
+  <!--     <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" align="center"/>-->
  </p>
 
 <div align="center">
@@ -48,8 +50,8 @@
       <img height="215em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&include_all_commits=true&langs_count=10&theme=radical&layout=compact" alt="Luciana        Pereira :: Top Langs" />
     </a>
-<!--       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact> -->
 </div>
+<!--       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact> -->
  
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical" alt="luciana pereira" />
