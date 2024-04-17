@@ -24,7 +24,8 @@
      <img  alt="logo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
      <img  alt="logo-CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
      <img  alt="logo-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-     <img  alt="logo-javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+     <img  alt="logo-javascript" height="40" width
+="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
      <img  alt="logo-angular" height="40" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
      <img  alt="logo-nodejs" height="40" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
      <img  alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
@@ -48,7 +49,7 @@ br>
 <div align="center">
     <a href="https://github.com/luciana-pereira">
       <img height="215em" src=https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&include_all_commits=true&langs_count=20&theme=radical&layout=compact" alt="Luciana        Pereira :: Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&count_private=true&include_all_commits=true&langs_count=20&theme=radical&layout=compact" alt="Luciana        Pereira :: Top Langs" />
     </a>
 </div>
 <!--       <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&theme=radical&layout=compact> -->
