@@ -17,7 +17,9 @@
 
 #### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" align="center"> GitHub States: 
  ![](http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciana-pereira&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+ 
+ ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luciana-pereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ####
 
 ## Top Langs: 
