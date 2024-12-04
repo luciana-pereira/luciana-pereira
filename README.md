@@ -4,23 +4,29 @@
 <!--<img align="right" alt="black-woman-with-laptop" src= "https://media.istockphoto.com/vectors/young-black-woman-with-laptop-sitting-in-chair-bag-vector-id1266949327?k=20&m=1266949327&s=170667a&w=0&h=NwowNt7l3FmAYfQpH5KmA1eBKKf0fJds8SgKgYF8L8E=" height = 240 width = 370/>-->
 </div><br><br>
 
-#### About:
+[![Visitors](https://komarev.com/ghpvc/?username=luciana-pereira&color=green&style=flat&label=visitors)](https://github.com/luciana-pereira)
+[![GitHub followers](https://img.shields.io/github/followers/luciana-pereira?style=social)](https://github.com/luciana-pereira)
+[![GitHub stars](https://img.shields.io/github/stars/luciana-pereira?style=social)](https://github.com/luciana-pereira)
+---
+
+## About:
 > 📚 I am learning <b>C, C++</b> and <b>Java</b> ☕️<br />
 > 👩🏽‍🚀 Cadet in training in Software Engineering at <a href="https://www.42sp.org.br" target="_blank">42SP</a ><br />
 > 🎓 I am currently majoring in Engineering at <a href="https://univesp.br/" target="_blank">UNIVESP</a ><br />
 > 👩🏾‍💻 Participated in <a href="https://selecao.laboratoria.la" target="_blank">Laboratoria Bootcamp | Front-End 5th Generation</a ><br />
+<br /><br />
+---
 
-<br />
  <p align="center">
   <!--     <img src="https://badge42.vercel.app/api/v2/cl155llci000609lcgznhbohw/stats?cursusId=21&coalitionId=undefined" align="center"/>-->
  </p>
 
-#### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" align="center"> GitHub States: 
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" align="center"> GitHub States: 
  ![](http://github-readme-streak-stats.herokuapp.com?user=luciana-pereira&theme=radical)
  
  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luciana-pereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-####
+<br /><br />
+---
 
 ## Top Langs: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&count_private=true&include_all_commits=true&langs_count=40&theme=radical&layout=compact)
