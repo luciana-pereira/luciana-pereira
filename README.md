@@ -11,10 +11,11 @@
 ---
 
 ## About:
- 📚 I am learning <b>C, C++</b> and <b>Java</b> ☕️<br />
- 👩🏽‍🚀 Cadet in training in Software Engineering at <a href="https://www.42sp.org.br" target="_blank">42SP</a ><br />
- 🎓 I am currently majoring in Engineering at <a href="https://univesp.br/" target="_blank">UNIVESP</a ><br />
- 👩🏾‍💻 Participated in <a href="https://selecao.laboratoria.la" target="_blank">Laboratoria Bootcamp | Front-End 5th Generation</a ><br />
+I'm a full stack developer with strong expertise in modern technologies such as JavaScript, TypeScript, React.js, Next.js, React Native, .NET, Angular, C#, Kubernetes, Docker, MongoDB, Oracle, Azure DevOps, as well as a solid foundation in HTML, CSS, and database management. I specialize in building and maintaining APIs, web applications, and back-office systems, always focusing on scalability, performance, and delivering an exceptional user experience.
+
+I work with agile methodologies (Scrum), optimizing workflows and ensuring high-performing systems. My academic background includes completing the 5th edition of <a href="https://selecao.laboratoria.la" target="_blank">Laboratoria’s Bootcamp</a >, Software Engineering through <a href="https://www.42sp.org.br" target="_blank">42 São Paulo’s</a > common core, a degree in Internet Systems from FIAP, and I'm currently pursuing a degree in Computer Engineering at <a href="https://univesp.br/" target="_blank">UNIVESP</a >.
+
+I also have experience with languages such as Java, C, C++, Python, and Kotlin, combined with a strong understanding of cloud computing, especially with Microsoft Azure. I'm always looking for challenging and collaborative projects that drive my technical growth and professional development.
 <br /><br />
 
 ---
@@ -58,6 +59,7 @@
 ![](https://img.shields.io/badge/Tools-Mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=fe428e)
 ![](https://img.shields.io/badge/Tools-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=fe428e)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=fe428e)
+
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=fe428e)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=fe428e)
 </br>
