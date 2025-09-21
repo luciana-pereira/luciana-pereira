@@ -15,7 +15,7 @@ I'm a full stack developer with strong expertise in modern technologies such as 
 
 I work with agile methodologies (Scrum), optimizing workflows and ensuring high-performing systems. My academic background includes completing the 5th edition of <a href="https://selecao.laboratoria.la" target="_blank">Laboratoria’s Bootcamp</a >, Software Engineering through <a href="https://www.42sp.org.br" target="_blank">42 São Paulo’s</a > common core, a degree in Internet Systems from FIAP, and I'm currently pursuing a degree in Computer Engineering at <a href="https://univesp.br/" target="_blank">UNIVESP</a >.
 
-I also have experience with languages such as Java, C, C++, Python, and Kotlin, combined with a strong understanding of cloud computing, especially with Microsoft Azure. I'm always looking for challenging and collaborative projects that drive my technical growth and professional development.
+I also have experience with languages such as Java, C, C++, C#, and Kotlin, combined with a strong understanding of cloud computing, especially with Microsoft Azure. I'm always looking for challenging and collaborative projects that drive my technical growth and professional development.
 <br /><br />
 
 ---
