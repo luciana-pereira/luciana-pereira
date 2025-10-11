@@ -8,6 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/luciana-pereira?color=07e616&style=flat)](https://github.com/luciana-pereira)
 [![GitHub stars](https://img.shields.io/github/stars/luciana-pereira?color=07e616&style=flat)](https://github.com/luciana-pereira)
 
+
+
 ---
 
 ## About:
@@ -17,6 +19,27 @@ I work with agile methodologies (Scrum), optimizing workflows and ensuring high-
 
 I also have experience with languages such as Java, C, C++, C#, and Kotlin, combined with a strong understanding of cloud computing, especially with Microsoft Azure. I'm always looking for challenging and collaborative projects that drive my technical growth and professional development.
 <br /><br />
+
+## 🎓 Certifications & Education:
+<a href="https://www.credly.com/badges/6ed4a801-1bc4-4c24-a85b-1dfa25dec09f" target="_blank" rel="noopener">
+  <img src="https://images.credly.com/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" alt="LFC131: Green Software for Practitioners" width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/bafff79b-0441-4aa9-bf8b-f67605980de2" target="_blank" rel="noopener">
+  <img src="https://images.credly.com/images/a6e3d74d-5acb-4519-91ce-70220c9f287b/image.png" alt="42 Certified" width="100" height="100">
+</a>
+<a href="https://www.credly.com/badges/c83674cf-6c1e-47c9-9fc7-1cc35bb3ce9a" target="_blank" rel="noopener">
+  <img src="https://images.credly.com/images/677e8083-ea54-4b89-8605-84d7120408a4/blob" alt="SI Architect Certification" width="100" height="100">
+</a>
+<br /><br />
+
+![FIAP - Internet Systems](https://img.shields.io/static/v1?label=FIAP&message=Tecnologia%20em%20Sistemas%20para%20Internet&color=0078D4)
+![Microsoft Certified](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?logo=microsoft)
+![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange?logo=amazonaws)
+
+- Microsoft Certified: AI-900 (In Progress)
+- MBA in Cloud Architecture - FIAP (Incoming)
+
+<br />
 
 ---
 
