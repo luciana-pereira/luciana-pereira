@@ -75,7 +75,7 @@ I am a **facilitator in Google's student recruitment program**, supporting stude
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-pereira&show_icons=true&count_private=true&include_all_commits=true&langs_count=40&theme=radical&layout=compact)
 </br>
 
-## Skills:
+### <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Skills:
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=fe428e)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&Color=white&color=fe428e)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=fe428e)
