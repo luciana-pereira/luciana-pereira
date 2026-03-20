@@ -20,6 +20,24 @@ I work with agile methodologies (Scrum), optimizing workflows and ensuring high-
 I also have experience with languages such as Java, C, C++, C#, and Kotlin, combined with a strong understanding of cloud computing, especially with Microsoft Azure. I'm always looking for challenging and collaborative projects that drive my technical growth and professional development.
 <br /><br />
 
+---
+
+## 🎓 Google Cloud Arcade | Facilitator
+
+I am a **facilitator in Google's student recruitment program**, supporting students and early-career professionals to connect with learning opportunities, technical development, and growth within the Google ecosystem.
+
+👉 **To apply, use the official form and enter my facilitator code:**
+
+**Facilitator Code:** `GCAFBR-26-4735`
+
+<p align="center">
+  <a href=" https://alunosarcadegooglecloud.soulcode.com/alunos" target="_blank">
+    <img src="https://img.shields.io/badge/Google-%20Google Cloud Arcade-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🎓 Certifications & Education:
 <a href="https://www.credly.com/badges/6ed4a801-1bc4-4c24-a85b-1dfa25dec09f" target="_blank" rel="noopener">
   <img src="https://images.credly.com/images/f28a92f1-2837-4770-add0-70008be15e89/image.png" alt="LFC131: Green Software for Practitioners" width="100" height="100">
