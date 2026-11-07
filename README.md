@@ -222,24 +222,6 @@ Supporting students and early-career professionals in discovering Google Cloud l
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to exchanging knowledge, collaborating on innovative projects, and connecting with professionals passionate about technology, engineering, and architecture.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucianapereiras/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:luci.lv14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/luciana-pereira" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
 ### *Engineering the future, one solution at a time.* 🚀
