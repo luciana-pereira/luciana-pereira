@@ -77,36 +77,68 @@ I support students and early-career professionals in discovering learning opport
 - **Artificial Intelligence:** LangGraph, ChromaDB, and MLflow
 </br>
 
-## 🏅 Certifications & Credentials
+## 🏅 Certificações e credenciais
 
-#### Microsoft Azure
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/19bfcda2-77a7-4e15-b895-df2ac7424a4d" alt="Azure AI Fundamentals" height="100"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/19bfcda2-77a7-4e15-b895-df2ac7424a4d" height="85" alt="Azure AI Fundamentals"/><br/>
+      <b>Azure AI Fundamentals</b><br/>
+      <sub>Microsoft</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://images.credly.com/size/340x340/images/eab36ef9-2b99-400c-8b7f-22e7ecfb1deb/blob" height="85" alt="MongoDB SI Architect"/><br/>
+      <b>MongoDB SI Architect</b><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/20ec877d-45bb-413a-8879-e98a2dbdbe57" height="85" alt="MongoDB SI Associate"/><br/>
+      <b>MongoDB SI Associate</b><br/>
+      <sub>MongoDB</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/617b89ed-014c-4108-b3f1-8158f5387279" height="85" alt="GitHub Copilot"/><br/>
+      <b>GitHub Copilot</b><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7633a442-912b-4a8a-9c0d-898cb13fd369" height="85" alt="GitHub Foundations"/><br/>
+      <b>GitHub Foundations</b><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f0c5d617-6e16-4e06-bb46-108289a781cb" height="85" alt="Green Software for Practitioners"/><br/>
+      <b>Green Software (LFC131)</b><br/>
+      <sub>Linux Foundation</sub>
+    </td>
+  </tr>
+</table>
 
-#### Microsoft MTA Certifications
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/3141cb02-21c1-4a82-9feb-2bf46f502aa3" alt="98-361 — MTA: Software Development Fundamentals" height="100"/>
-  <img src="https://github.com/user-attachments/assets/010fc330-030e-4662-95f1-2892aad326fb" alt="98-383 — MTA: Introduction to Programming using HTML and CSS" height="100"/>
-  <img src="https://github.com/user-attachments/assets/4726b90c-78f9-4535-92ee-79091553a843" alt="98-382 — MTA: Introduction to Programming Using JavaScript" height="100"/>
-</p>
-
-#### GitHub
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/617b89ed-014c-4108-b3f1-8158f5387279" alt="GitHub Copilot" height="100"/>
-  <img src="https://github.com/user-attachments/assets/7633a442-912b-4a8a-9c0d-898cb13fd369" alt="GitHub Foundations" height="100"/>
-</p>
-
-#### MongoDB
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/eab36ef9-2b99-400c-8b7f-22e7ecfb1deb/blob" alt="MongoDB SI Architect" height="110"/>
-  <img src="https://github.com/user-attachments/assets/20ec877d-45bb-413a-8879-e98a2dbdbe57" alt="MongoDB SI Associate" height="100"/>
-</p>
-
-#### Linux Foundation
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/f0c5d617-6e16-4e06-bb46-108289a781cb" alt="LFC131 — Green Software for Practitioners" height="100"/>
-</p>
+<details>
+<summary><b>📜 Ver certificações de base (Microsoft MTA)</b></summary>
+<br/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/3141cb02-21c1-4a82-9feb-2bf46f502aa3" height="80" alt="98-361 — MTA: Software Development Fundamentals"/><br/>
+      <b>98-361: Software Development</b><br/>
+      <sub>Microsoft MTA</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/010fc330-030e-4662-95f1-2892aad326fb" height="80" alt="98-383 — MTA: HTML and CSS"/><br/>
+      <b>98-383: HTML & CSS</b><br/>
+      <sub>Microsoft MTA</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/4726b90c-78f9-4535-92ee-79091553a843" height="80" alt="98-382 — MTA: JavaScript"/><br/>
+      <b>98-382: JavaScript</b><br/>
+      <sub>Microsoft MTA</sub>
+    </td>
+  </tr>
+</table>
+</details>
 </br>
 
 ## 🎓 Academic Background
